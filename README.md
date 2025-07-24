@@ -1,9 +1,9 @@
 # Sentiment Analysis of Clash of Clans Google Play Reviews
 
 <p align='center'>
-   https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=python 
-   https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=huggingface 
-   https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=googleplaystore 
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+   <img src="https://img.shields.io/badge/Hugging%20Face-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black">
+   <img src="https://img.shields.io/badge/Google%20Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white">
 </p>
 
 ## Overview
@@ -14,11 +14,11 @@ This project analyzes player sentiment for Clash of Clans mobile game by scrapin
 ## Installation
 1. Clone this repository to your local
 ```
-git clone 
+git clone https://github.com/ChristianNathanielP/nlp-sentiment-analysis.git
 ```
 2. Navigate to repository
 ```
-cd 
+cd nlp-sentiment-analysis
 ```
 3. Install the require depedencies
 ```
